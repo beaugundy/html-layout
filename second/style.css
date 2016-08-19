@@ -1,0 +1,39 @@
+html, body {
+  width:100%;
+  margin:0px;
+  background-color: white;
+  height:100%;
+}
+
+.containerBlue {
+  width: 75%;
+  background-color: #4a90e2;
+  margin-left: 12.5%;
+  height: 100%;
+}
+
+.containerAqua {
+    width: 66.6666%;
+    background-color: #50e3c2;
+    height: 100%;
+    margin-left:33.33333%;
+}
+
+.containerGreen {
+    width: 50%;
+    background-color: #b8e986;
+    height: 100%;
+    margin-left: 50%;
+    position: relative;
+}
+
+.placeHolder {
+    width: 100%;
+    background-color: #d0021b;
+    height: 150px;
+    position: absolute;
+    bottom: 0px;
+    color: white;
+    font-size: 20pt;
+    text-align: center;
+}
